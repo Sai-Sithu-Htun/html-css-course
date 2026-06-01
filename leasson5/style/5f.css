@@ -1,0 +1,19 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+.mail{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.mail-style{
+    color: gray;
+}
+.link{
+    padding-top: 9px;
+}
+.chp-it{
+    color: blue;
+}

@@ -1,0 +1,9 @@
+.sign-btn{
+    background-color: rgb(46, 164, 97);
+    color: white;
+    font-weight: 700;
+    width: 83px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}

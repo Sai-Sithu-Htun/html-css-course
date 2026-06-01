@@ -1,0 +1,15 @@
+.btn{
+    background-color: green;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    padding: 6px 10px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: padding 0.15s,margin 0.15s;
+}
+.btn:hover{
+    padding: 6px 16px;
+    margin-left: 5px;
+}
