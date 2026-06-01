@@ -1,0 +1,30 @@
+p{
+    font-size: 32px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.location,.destination{
+    width: 300px;
+    padding: 12px 18px;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    display: block;
+    background-color: rgb(240, 240, 240);
+    border: none;
+}
+.req-btn{
+    width: 130px;
+    padding: 10px 12px;
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+.schedule-btn{
+    width: 150px;
+    padding: 12px 18px;
+    margin-top: 10px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    margin-left: 16px;
+}

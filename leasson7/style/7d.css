@@ -1,0 +1,26 @@
+.fname,.lname{
+    width: 130px;
+    border: 1px solid gray;
+    padding-left: 14px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.email{
+    display: block;
+    width: 270px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 8px 14px;
+    margin-bottom: 10px;
+}
+.signup{
+    width: 300px;
+    font-weight: bold;
+    background-color: rgb(47, 127, 231);
+    color: white;
+    border: none;
+    padding: 12px 14px;
+    border-radius: 8px;
+}
