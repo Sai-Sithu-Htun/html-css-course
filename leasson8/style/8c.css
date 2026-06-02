@@ -1,0 +1,11 @@
+div{
+    border: 1px solid gray;
+    height: 95px;
+    width: 360px;
+}
+p{
+    margin-left: 20px;
+}
+.yes-btn{
+    margin-left: 20px;
+}

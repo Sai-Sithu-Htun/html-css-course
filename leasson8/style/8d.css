@@ -1,0 +1,14 @@
+div{
+    border: 1px solid gray;
+    height: 98px;
+    width: 362px;
+    background-color: black;
+}
+p{
+    margin-left: 16px;
+    color: gray;
+}
+.title{
+    font-weight: bold;
+    color: white;
+}
