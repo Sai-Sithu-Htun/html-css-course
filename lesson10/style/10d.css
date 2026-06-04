@@ -1,0 +1,61 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 180px 180px 180px;
+    column-gap: 20px;
+}
+
+.rex,.oliver,.mimi{
+    width: 180px;
+    border: none;
+    vertical-align: top;
+    margin-right: 15px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.pf{
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+.name{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 5px;
+}
+
+.pf-section{
+    display: grid;
+    grid-template-columns: 35px 1fr;
+    align-items: center;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.dog2-pic{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    padding: 0;
+    border-radius: 15px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.mutual-fri{
+    color: gray;
+}
+button{
+    background-color: rgb(24, 119, 242);
+    color: white;
+    font-size: 14px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
